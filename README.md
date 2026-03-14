@@ -1,4 +1,4 @@
-# 🚀AI-Powered-Meeting-Task-Management-Portal
+# 🚀AI-Powered-Meeting-And-Task-Management-Portal
 
 An **AI-powered collaboration platform** designed to help organizations conduct meetings, extract insights, and manage employee tasks efficiently.
 
