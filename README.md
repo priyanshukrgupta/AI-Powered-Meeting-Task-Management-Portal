@@ -208,25 +208,25 @@ This feature helps employees create **presentation-ready reports** quickly.
 
 ## Login Page
 
-<img src="login.jpg" width="900">
+<img src="login.jpeg" width="900">
 
 ---
 
 ## Manager Dashboard
 
-<img src="manager dashboard.jpg" width="900">
+<img src="manager dashboard.jpeg" width="900">
 
 ---
 
 ## Meeting System
 
-<img src="meeting.jpg" width="900">
+<img src="meeting.jpeg" width="900">
 
 ---
 
 ## AI Transcript Summarizer
 
-<img src="summerizer.jpg" width="900">
+<img src="summerizer.jpeg" width="900">
 
 ---
 
@@ -271,10 +271,10 @@ company-portal
 ├── index.html
 ├── meeting.html
 ├── summarizer.html
-├── login.jpg
-├── manager dashboard.jpg
-├── meeting.jpg
-├── summerizer.jpg
+├── login.jpeg
+├── manager dashboard.jpeg
+├── meeting.jpeg
+├── summerizer.jpeg
 └── README.md
 ```
 
