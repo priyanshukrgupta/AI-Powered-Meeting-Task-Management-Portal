@@ -232,7 +232,7 @@ This feature helps employees create **presentation-ready reports** quickly.
 
 ## AI Transcript Summarizer
 
-<img src="summerizer.jpeg" width="900">
+<img src="summarizer.jpeg" width="900">
 
 ---
 
