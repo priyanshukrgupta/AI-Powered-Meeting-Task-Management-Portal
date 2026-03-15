@@ -132,7 +132,7 @@ Example:
 Transcript:
 
 ```
-Tejas should prepare the UI design.
+Priyanshu should prepare the UI design.
 Deadline is Monday.
 ```
 
