@@ -218,6 +218,12 @@ This feature helps employees create **presentation-ready reports** quickly.
 
 ---
 
+## Employee Dashboard
+
+<img src="employee dashboard.jpeg" width="900">
+
+---
+
 ## Meeting System
 
 <img src="meeting.jpeg" width="900">
@@ -273,6 +279,7 @@ company-portal
 ├── summarizer.html
 ├── login.jpeg
 ├── manager dashboard.jpeg
+├── employee dashboard.jpeg
 ├── meeting.jpeg
 ├── summerizer.jpeg
 └── README.md
